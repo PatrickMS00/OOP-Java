@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_2OWVAGfvEemVP8ctLNVLFQ" name="TestDiagram">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_2YmdMGfvEemVP8ctLNVLFQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_T8sNMGfwEemVP8ctLNVLFQ" name="Person">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_XAeHQGfwEemVP8ctLNVLFQ" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_VimwMGfyEema-ffCy4fWdg" name="Class3"/>
+</uml:Model>
